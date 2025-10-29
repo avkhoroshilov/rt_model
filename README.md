@@ -1,2 +1,2 @@
 # rt_model
-pymc and patentor
+pymc and pytensor
